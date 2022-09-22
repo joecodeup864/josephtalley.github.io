@@ -32,4 +32,4 @@ Users should be able to:
 
 ## Author
 
-John Talley
+Joseph Talley
